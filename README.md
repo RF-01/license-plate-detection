@@ -63,7 +63,10 @@ Upload the training scripts (`train_yolo.py`, etc.) to Google Colab with a T4 GP
 | RetinaNet | Single-stage | Focal loss, handles class imbalance |
 
 ## Team Members
-- (Add your team members here)
+- Roda Fadlallah
+- Ramez Kanj
+- Mohammad Nahhal
+- Mohammad Rizk
 
 ## License
 This project is for educational purposes.
