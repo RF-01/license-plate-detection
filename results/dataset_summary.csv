@@ -1,0 +1,12 @@
+Metric,Value
+Total Images,433
+Total Bounding Boxes,471
+Unique Labels,1
+Avg Boxes per Image,1.09
+Max Boxes per Image,6
+Avg Image Width,425
+Avg Image Height,292
+Avg Box Width (px),98
+Avg Box Height (px),35
+Avg Box Aspect Ratio,2.96
+Avg Relative Box Area,0.0405
