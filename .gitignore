@@ -1,0 +1,41 @@
+# Dataset (too large for GitHub)
+data/raw/
+data/processed/
+
+# Model weights
+models/*.pt
+models/*.pth
+models/*.h5
+models/*.weights
+
+# YOLO training runs
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Kaggle
+kaggle.json

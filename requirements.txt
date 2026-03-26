@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+Pillow
+
+# ML/DL Frameworks
+torch
+torchvision
+ultralytics          # YOLOv8
+
+# Data & Annotations
+xmltodict            # For parsing Pascal VOC XML annotations
+albumentations       # Image augmentation
+
+# Evaluation & Utilities
+scikit-learn
+tqdm
+
+# Jupyter
+jupyter
+ipywidgets
