@@ -39,7 +39,7 @@ license-plate-detection/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/license-plate-detection.git
+https://github.com/RF-01/license-plate-detection.git
 cd license-plate-detection
 ```
 
