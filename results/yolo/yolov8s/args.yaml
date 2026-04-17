@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8s.pt
-data: /Users/alijaafar/Documents/MLP/license-plate-detection/data/processed/yolo/dataset.yaml
+data: data/processed/yolo/dataset.yaml
 epochs: 100
 time: null
 patience: 20
@@ -12,7 +12,7 @@ save_period: -1
 cache: false
 device: mps
 workers: 8
-project: /Users/alijaafar/Documents/MLP/license-plate-detection/results/yolo
+project: results/yolo
 name: yolov8s
 exist_ok: true
 pretrained: true
@@ -106,4 +106,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: /Users/alijaafar/Documents/MLP/license-plate-detection/results/yolo/yolov8s
+save_dir: results/yolo/yolov8s
